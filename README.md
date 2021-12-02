@@ -9,3 +9,8 @@ Home work assignments for ML Cyber-security
 ### Assignment 2: Evasion attacks
 - Release date: 12 Nov 21
 - Deadline: 25 Nov 21
+
+### Assignment 3
+- Release date: 26 Nov 21
+- Deadline: 9 Dec 21
+
